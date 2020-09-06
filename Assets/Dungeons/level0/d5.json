@@ -1,0 +1,229 @@
+{
+  "version": "1.1.3",
+  "title": "Shattered Asylum of Baethteri",
+  "story": "The asylum of Baethteri is situated deep in the forest, far from the nearest town. Currently it is infested by pigs, which don't care about the history of the place.",
+  "rects": [
+    {
+      "x": -1,
+      "y": 1,
+      "w": 3,
+      "h": 3
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "w": 5,
+      "h": 5
+    },
+    {
+      "x": -7,
+      "y": 0,
+      "w": 5,
+      "h": 5
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "w": 3,
+      "h": 3
+    },
+    {
+      "x": 5,
+      "y": -4,
+      "w": 3,
+      "h": 3
+    },
+    {
+      "x": -7,
+      "y": 6,
+      "w": 3,
+      "h": 3
+    },
+    {
+      "x": -7,
+      "y": -4,
+      "w": 3,
+      "h": 3
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "w": 4,
+      "h": 5
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "w": 1,
+      "h": 1
+    }
+  ],
+  "doors": [
+    {
+      "x": 0,
+      "y": 0,
+      "dir": {
+        "x": 0,
+        "y": 1
+      },
+      "type": 3
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "dir": {
+        "x": 1,
+        "y": 0
+      },
+      "type": 1
+    },
+    {
+      "x": -2,
+      "y": 2,
+      "dir": {
+        "x": -1,
+        "y": 0
+      },
+      "type": 1
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "dir": {
+        "x": 0,
+        "y": 1
+      },
+      "type": 5
+    },
+    {
+      "x": 6,
+      "y": -1,
+      "dir": {
+        "x": 0,
+        "y": -1
+      },
+      "type": 1
+    },
+    {
+      "x": -6,
+      "y": 5,
+      "dir": {
+        "x": 0,
+        "y": 1
+      },
+      "type": 1
+    },
+    {
+      "x": -6,
+      "y": -1,
+      "dir": {
+        "x": 0,
+        "y": -1
+      },
+      "type": 1
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "dir": {
+        "x": 1,
+        "y": 0
+      },
+      "type": 1
+    }
+  ],
+  "notes": [
+    {
+      "text": "A round double door with two keyholes to the south.",
+      "ref": "1",
+      "pos": {
+        "x": 5.5,
+        "y": 2.5
+      }
+    },
+    {
+      "text": "Remains of a cultist apparently killed by humans, an unholy staff clutched in his hands.",
+      "ref": "4",
+      "pos": {
+        "x": -4.5,
+        "y": 2.5
+      }
+    },
+    {
+      "text": "An artist. Claims to have a message for you.",
+      "ref": "2",
+      "pos": {
+        "x": 6.5,
+        "y": 7.5
+      }
+    },
+    {
+      "text": "A key hidden in a crack of the wall.",
+      "ref": "3",
+      "pos": {
+        "x": 6.5,
+        "y": -2.5
+      }
+    },
+    {
+      "text": "A chest with a key.",
+      "ref": "5",
+      "pos": {
+        "x": -5.5,
+        "y": 7.5
+      }
+    },
+    {
+      "text": "A rotten basket holds some gold, a chainmail and an enchanted sword.",
+      "ref": "6",
+      "pos": {
+        "x": -5.5,
+        "y": -2.5
+      }
+    }
+  ],
+  "columns": [],
+  "water": []
+}
